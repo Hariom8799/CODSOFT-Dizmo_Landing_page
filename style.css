@@ -156,3 +156,113 @@
 .service-description{
     opacity: 70%;
 }
+
+/* --------------------------------Unique feature----------------------- */
+#uniqueF{
+    background-image: url(./images/digital-marketing-services-main-bg.webp);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.unique-feature{
+    display: flex;
+    padding: 4rem 0;
+    gap: 5rem;
+    align-items: center;
+}
+.fea-heading{
+    font-size: 2.5em;
+    font-weight: 600;
+}
+.point{
+    display: flex;
+    gap: 1rem;
+    margin-top: 2rem;
+
+}
+.point-heading{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 1.5rem;
+}
+
+/* ----------------------------plan section------------------------ */
+.plan{
+    width: 100%;
+    background-color: #100546;
+    padding: 4rem 0;
+}
+.plan-content{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.plan-content-left{
+    width: 60%;
+}
+.plan-content-left p{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28px;
+}
+.plan-content-left h2{
+    font-size: 2.5em;
+    font-weight: 600;
+    line-height: 1.25em;
+}
+
+/* --------------------------------Client Testimonials------------------------ */
+.testimonials{
+    padding: 4rem 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+}
+.testimonial-heading{
+    text-align: center;
+    font-size: 2.5rem;
+    font-weight: 600;
+    line-height: 1.25em;
+}
+.testimonial-content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 40%;
+    margin: 2rem auto;
+    gap: 1rem;
+}
+.name{
+    font-size: 18px;
+    font-weight: 600;
+}
+.test-desc{
+    text-align: center;
+}
+.footer{
+   background-color: #100546;
+   padding: 4rem 0;
+}
+.footer-container{
+    display: flex;
+    color: white;
+    justify-content: space-between;
+}
+.left-content{
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+.footer-heading{
+    font-size: 20px;
+    font-weight: 600;
+}
+.social-icons{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    font-size: 2rem;
+}
